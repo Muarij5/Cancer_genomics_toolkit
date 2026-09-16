@@ -1,0 +1,14 @@
+Drug_A,Drug_B,Cell_Line,Dose_A,Dose_B,Response
+Everolimus,Dactolisib,BT-549,0,0,90
+Everolimus,Dactolisib,BT-549,0,1,95
+Everolimus,Dactolisib,BT-549,0,10,81
+Everolimus,Dactolisib,BT-549,0,30,59
+Everolimus,Dactolisib,BT-549,0,100,39
+Everolimus,Dactolisib,BT-549,1,0,96
+Everolimus,Dactolisib,BT-549,10,0,80
+Everolimus,Dactolisib,BT-549,30,0,65
+Everolimus,Dactolisib,BT-549,100,0,45
+Everolimus,Dactolisib,BT-549,1,1,88
+Everolimus,Dactolisib,BT-549,10,10,50
+Everolimus,Dactolisib,BT-549,30,30,21
+Everolimus,Dactolisib,BT-549,100,100,8

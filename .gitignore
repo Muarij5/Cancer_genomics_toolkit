@@ -1,0 +1,13 @@
+*.RData
+*.RDataTmp*
+.Rhistory
+Module_1/mart_export.txt
+Module_1/CRISPRGeneEffect.csv
+Module_1/OmicsSomaticMutationsMatrixDamaging.csv
+Module_1/OmicsExpressionTPMLogp1*.csv
+Module_1/OmicsCNGeneWGS.csv
+Module_1/Model.csv
+Module_1/PortalCompounds.csv
+Module_1/Census_all*.csv
+
+

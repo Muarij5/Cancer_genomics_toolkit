@@ -1,0 +1,404 @@
+"gene_a","gene_b","canon_pair","zdlfc_1","zdlfc_2","zdlfc_3","fr_n_hit","fr_label","sl_label_dekegel","fr_call","sl_call","error"
+"ABHD4","ABHD5","ABHD4_ABHD5",-0.609,-0.036,-0.046,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"ABL1","ABL2","ABL1_ABL2",0.088,0.887,0.08,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"ABR","BCR","ABR_BCR",1.885,0.778,1.043,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"ACAP2","ACAP3","ACAP2_ACAP3",2.694,1.999,2.082,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"ACTG1","ACTR1B","ACTG1_ACTR1B",0.946,3.524,4.765,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"ACVR2A","ACVR2B","ACVR2A_ACVR2B",1.656,1.359,0.572,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"AGAP3","AGAP1","AGAP1_AGAP3",0.894,0.964,0.281,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"AGAP9","AGAP1","AGAP1_AGAP9",-0.631,0.214,-0.229,0,"FR_negative","False",NA,NA,"Data coverage gap: AGAP9 is present in the CRISPR dependency data, but missing from the mutation data. This means mutation- and/or expression-based loss can't be computed for this gene, so any SL/FR result involving it would silently look like 'zero mutations / insufficient data' rather than a genuine negative. Check the exact gene symbol used in your OmicsSomaticMutationsMatrixDamaging.csv and OmicsExpressionTPMLogp1... column headers (naming/alias mismatches are the most common cause), or this gene may simply not be covered by that particular DepMap release."
+"AKT1","AKT2","AKT1_AKT2",-0.157,-0.617,0.727,0,"FR_negative","not_in_mmc6","Functional Redundancy (moderate)","Synthetic Lethal (moderate)",NA
+"ALG10","ALG10B","ALG10_ALG10B",-0.225,-0.93,-0.57,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"ANKRA2","RFXANK","ANKRA2_RFXANK",-0.138,0.707,0.791,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"ANKRD13A","ANKRD13D","ANKRD13A_ANKRD13D",-1.799,-0.08,-0.063,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"ANXA11","ANXA7","ANXA11_ANXA7",1.643,1.13,0.357,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"AP1B1","AP2B1","AP1B1_AP2B1",-1.137,-3.834,-2.483,1,"ambiguous","not_in_mmc6","Functional Redundancy (moderate)","Synthetic Lethal (moderate)",NA
+"AP2A1","AP2A2","AP2A1_AP2A2",0.311,-0.758,-1.105,0,"FR_negative","False","Functional Redundancy","Synthetic Lethal",NA
+"AP3M1","AP3M2","AP3M1_AP3M2",-0.873,-1.388,-0.551,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"AP3S1","AP3S2","AP3S1_AP3S2",-0.01,-0.083,-0.018,0,"FR_negative","not_in_mmc6",NA,NA,"Data coverage gap: AP3S1 is present in the CRISPR dependency data, but missing from the mutation data. This means mutation- and/or expression-based loss can't be computed for this gene, so any SL/FR result involving it would silently look like 'zero mutations / insufficient data' rather than a genuine negative. Check the exact gene symbol used in your OmicsSomaticMutationsMatrixDamaging.csv and OmicsExpressionTPMLogp1... column headers (naming/alias mismatches are the most common cause), or this gene may simply not be covered by that particular DepMap release."
+"APPL1","APPL2","APPL1_APPL2",0.886,0.885,-0.161,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"ARFGEF1","ARFGEF2","ARFGEF1_ARFGEF2",-2.344,-3.327,-3.914,2,"FR_positive","True","Not Functionally Redundant","Not Synthetic Lethal",NA
+"ARFIP1","ARFIP2","ARFIP1_ARFIP2",0.469,0.577,0.749,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"ARHGEF3","NET1","ARHGEF3_NET1",-0.062,0.4,0.354,0,"FR_negative","False","Functional Redundancy (moderate)","Not Synthetic Lethal",NA
+"ARID1A","ARID1B","ARID1A_ARID1B",-0.974,-0.077,-0.752,0,"FR_negative","True","Borderline FR","Not Synthetic Lethal",NA
+"ARL8A","ARL8B","ARL8A_ARL8B",-2.474,0.094,-0.271,0,"FR_negative","not_in_mmc6",NA,NA,"Data coverage gap: ARL8B is present in the CRISPR dependency data, but missing from the mutation data. This means mutation- and/or expression-based loss can't be computed for this gene, so any SL/FR result involving it would silently look like 'zero mutations / insufficient data' rather than a genuine negative. Check the exact gene symbol used in your OmicsSomaticMutationsMatrixDamaging.csv and OmicsExpressionTPMLogp1... column headers (naming/alias mismatches are the most common cause), or this gene may simply not be covered by that particular DepMap release."
+"ARPC1A","ARPC1B","ARPC1A_ARPC1B",-2.88,-2.167,-1.629,0,"FR_negative","not_in_mmc6","Functional Redundancy (moderate)","Synthetic Lethal (moderate)",NA
+"ARPC5","ARPC5L","ARPC5_ARPC5L",-1.127,-0.982,0.234,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"ARPP19","ENSA","ARPP19_ENSA",-0.824,-0.685,-2.475,0,"FR_negative","not_in_mmc6",NA,NA,"Data coverage gap: ARPP19 and ENSA are present in the CRISPR dependency data, but missing from the mutation data. This means mutation- and/or expression-based loss can't be computed for this gene, so any SL/FR result involving it would silently look like 'zero mutations / insufficient data' rather than a genuine negative. Check the exact gene symbol used in your OmicsSomaticMutationsMatrixDamaging.csv and OmicsExpressionTPMLogp1... column headers (naming/alias mismatches are the most common cause), or this gene may simply not be covered by that particular DepMap release."
+"ASAP1","ASAP2","ASAP1_ASAP2",0.858,1.443,0.827,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"ASIC1","ASIC3","ASIC1_ASIC3",1.596,0.776,0.365,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"ATAD2","ATAD2B","ATAD2_ATAD2B",-0.084,-0.374,-0.01,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"ATAD3A","ATAD3B","ATAD3A_ATAD3B",3.666,1.277,4.687,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Synthetic Lethal (moderate)",NA
+"ATF2","ATF7","ATF2_ATF7",0.907,1.143,0.53,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"ATP6V0A1","ATP6V0A2","ATP6V0A1_ATP6V0A2",-2.583,-4.256,0.416,1,"ambiguous","True","Functional Redundancy (moderate)","Synthetic Lethal (moderate)",NA
+"B4GALT1","B4GALT2","B4GALT1_B4GALT2",-0.105,0.334,0.819,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"BCL2L1","MCL1","BCL2L1_MCL1",0.935,-1.995,-1.615,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Synthetic Lethal",NA
+"BICD1","BICD2","BICD1_BICD2",0.18,0.149,0.136,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"BRCA1","PARP1","BRCA1_PARP1",0.902,0.165,-0.609,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Synthetic Lethal (moderate)",NA
+"BRWD1","PHIP","BRWD1_PHIP",0.744,-0.02,-0.209,0,"FR_negative","False","Functional Redundancy (moderate)","Not Synthetic Lethal",NA
+"BTBD1","BTBD2","BTBD1_BTBD2",0.159,-0.791,0.354,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"BTN2A1","BTN2A2","BTN2A1_BTN2A2",1.735,0.623,0.012,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"BTN3A1","BTN3A3","BTN3A1_BTN3A3",-0.065,-0.129,0.052,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"CAMKK1","CAMKK2","CAMKK1_CAMKK2",0.009,0.312,-0.455,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"CAPZA1","CAPZA2","CAPZA1_CAPZA2",-4.236,-4.711,-4.054,3,"FR_positive","not_in_mmc6",NA,NA,"Data coverage gap: CAPZA1 is present in the CRISPR dependency data, but missing from the mutation data. This means mutation- and/or expression-based loss can't be computed for this gene, so any SL/FR result involving it would silently look like 'zero mutations / insufficient data' rather than a genuine negative. Check the exact gene symbol used in your OmicsSomaticMutationsMatrixDamaging.csv and OmicsExpressionTPMLogp1... column headers (naming/alias mismatches are the most common cause), or this gene may simply not be covered by that particular DepMap release."
+"CBX3","CBX5","CBX3_CBX5",-1.197,-0.715,0.735,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"CCNE1","CCNE2","CCNE1_CCNE2",-1.045,-2.564,-4.088,1,"ambiguous","not_in_mmc6","Not Functionally Redundant","Synthetic Lethal (moderate)",NA
+"CCNG1","CCNG2","CCNG1_CCNG2",0.499,0.302,0.234,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"CCNT1","CCNT2","CCNT1_CCNT2",-2.591,-1.704,-1.226,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"CCNY","CCNYL1","CCNY_CCNYL1",-0.179,0.588,1.018,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"CDC34","UBE2R2","CDC34_UBE2R2",-0.037,0.138,0.164,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"CDC42BPA","CDC42BPB","CDC42BPA_CDC42BPB",0.398,0.751,0.642,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"CDH1","CDH3","CDH1_CDH3",-0.086,-0.617,-0.108,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"CDK3","CDK5","CDK3_CDK5",0.447,-0.162,0.469,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"CHD1","CHD2","CHD1_CHD2",-3.705,-1.774,-1.472,1,"ambiguous","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"CHKA","CHKB","CHKA_CHKB",0.061,-0.418,0.9,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"CHUK","IKBKB","CHUK_IKBKB",0.929,1.473,-2.349,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"CISD1","CISD2","CISD1_CISD2",-0.969,-1.883,-1.209,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"CLSTN1","CLSTN3","CLSTN1_CLSTN3",1.332,0.618,0.287,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"CLTA","CLTB","CLTA_CLTB",-0.266,0.097,0.021,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"CNNM2","CNNM4","CNNM2_CNNM4",0.643,0.44,-0.285,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"CNOT7","CNOT8","CNOT7_CNOT8",-5.194,-6.953,-7.569,3,"FR_positive","True","Borderline FR","Not Synthetic Lethal",NA
+"COPS7A","COPS7B","COPS7A_COPS7B",-3.087,-2.851,-4.513,2,"FR_positive","not_in_mmc6","Functional Redundancy (moderate)","Synthetic Lethal (moderate)",NA
+"COQ8A","COQ8B","COQ8A_COQ8B",-0.729,-0.015,-1.906,0,"FR_negative","not_in_mmc6","Functional Redundancy (moderate)","Synthetic Lethal",NA
+"CORO1B","CORO1C","CORO1B_CORO1C",-0.114,0.228,0.925,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"CPEB2","CPEB4","CPEB2_CPEB4",1.498,0.977,1.413,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"CPNE1","CPNE2","CPNE1_CPNE2",-0.62,0.171,0.547,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"CREB1","ATF1","ATF1_CREB1",0.336,0.201,-0.637,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Synthetic Lethal (moderate)",NA
+"CREM","ATF1","ATF1_CREM",0.123,0.323,0.494,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"CRTAP","P3H4","CRTAP_P3H4",0.556,1.206,1.508,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"CRY1","CRY2","CRY1_CRY2",-1.004,0.135,0.656,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"CSNK1D","CSNK1E","CSNK1D_CSNK1E",-3.966,-3.169,-5.177,3,"FR_positive","not_in_mmc6",NA,NA,"Gene 'CSNK1E' not found in the loaded dependency data."
+"CSNK1G1","CSNK1G2","CSNK1G1_CSNK1G2",-0.258,0.318,0.357,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"CSNK2A1","CSNK2A2","CSNK2A1_CSNK2A2",-3.307,-5.932,-4.135,3,"FR_positive","not_in_mmc6","Functional Redundancy (moderate)","Synthetic Lethal (moderate)",NA
+"CTDSP1","CTDSP2","CTDSP1_CTDSP2",-0.767,-0.41,1.135,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"CUL7","CUL9","CUL7_CUL9",-0.331,-0.186,0.329,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"CYB5R1","CYB5R3","CYB5R1_CYB5R3",-0.209,-0.156,-0.122,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"CYTH1","CYTH2","CYTH1_CYTH2",1.319,-0.044,0.71,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"CYTH3","CYTH2","CYTH2_CYTH3",0.679,0.383,0.175,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"DCK","DGUOK","DCK_DGUOK",-0.296,-0.085,0.035,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"DCUN1D1","DCUN1D2","DCUN1D1_DCUN1D2",0.423,0.135,-0.408,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"DCUN1D4","DCUN1D5","DCUN1D4_DCUN1D5",-0.713,0.092,-0.523,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"DDHD2","SEC23IP","DDHD2_SEC23IP",-0.8,-0.638,0.446,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"DDX19A","DDX19B","DDX19A_DDX19B",-6.46,-8.024,-7.062,3,"FR_positive","not_in_mmc6","Borderline FR","Synthetic Lethal (moderate)",NA
+"DHRS4","DHRS4L2","DHRS4_DHRS4L2",0.42,0.005,-0.018,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"DIAPH1","DIAPH3","DIAPH1_DIAPH3",-0.601,0.669,-2.021,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"DMWD","WDR20","DMWD_WDR20",-0.397,-0.072,-0.094,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"DMXL1","DMXL2","DMXL1_DMXL2",0.063,-0.995,-0.873,0,"FR_negative","True","Functional Redundancy (moderate)","Synthetic Lethal (moderate)",NA
+"DNAJA1","DNAJA2","DNAJA1_DNAJA2",-3.376,-3.188,-3.402,3,"FR_positive","not_in_mmc6","Not Functionally Redundant","Synthetic Lethal (moderate)",NA
+"DNAJB12","DNAJB14","DNAJB12_DNAJB14",1.291,0.683,0.029,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"DNMT3A","DNMT3B","DNMT3A_DNMT3B",1.201,0.732,-0.573,0,"FR_negative","not_in_mmc6","Borderline FR","Synthetic Lethal (moderate)",NA
+"DPF1","DPF2","DPF1_DPF2",-0.707,0.421,0.136,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"DPP8","DPP9","DPP8_DPP9",-1.148,-0.598,-0.307,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"DUSP16","DUSP8","DUSP16_DUSP8",0.894,-0.459,0.687,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"DYNC1LI1","DYNC1LI2","DYNC1LI1_DYNC1LI2",-0.451,-2.461,-1.943,0,"FR_negative","not_in_mmc6","Functional Redundancy","Synthetic Lethal (moderate)",NA
+"DYRK2","DYRK3","DYRK2_DYRK3",0.711,0.124,1.267,0,"FR_negative","False","Functional Redundancy (moderate)","Not Synthetic Lethal",NA
+"EHD1","EHD4","EHD1_EHD4",-0.427,0.302,-0.542,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"ENTPD4","ENTPD7","ENTPD4_ENTPD7",0.995,0.503,0.278,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"EPN1","EPN2","EPN1_EPN2",0.428,-0.044,0.301,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"EPS15","EPS15L1","EPS15_EPS15L1",0.447,-0.004,-0.394,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"ERLIN1","ERLIN2","ERLIN1_ERLIN2",-0.677,-0.235,-0.212,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"EVI5","EVI5L","EVI5_EVI5L",-1.614,-0.064,-0.38,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"EZH1","EZH2","EZH1_EZH2",0.774,-0.617,-0.357,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"EZR","NF2","EZR_NF2",1.847,1.263,0.939,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"FAHD2A","FAHD2B","FAHD2A_FAHD2B",-1.072,-0.306,0.684,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"FAM117B","GLCCI1","FAM117B_GLCCI1",-0.171,-1.382,0.253,0,"FR_negative","not_in_mmc6","Borderline FR","Synthetic Lethal (moderate)",NA
+"FAM160B1","FAM160B2","FAM160B1_FAM160B2",-0.293,1.805,0.575,0,"FR_negative","False",NA,NA,"Gene 'FAM160B1' not found in the loaded dependency data."
+"FAM200A","FAM200B","FAM200A_FAM200B",0.507,0.964,0.402,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"FAM76A","FAM76B","FAM76A_FAM76B",1.074,0.846,0.054,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"FGFR1OP2","SIKE1","FGFR1OP2_SIKE1",0.63,0.127,-0.156,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"FLOT1","FLOT2","FLOT1_FLOT2",-0.296,0.489,0.648,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"FN3K","FN3KRP","FN3K_FN3KRP",1.504,1.506,1.049,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"FNBP1L","TRIP10","FNBP1L_TRIP10",0.156,0.495,0.544,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"FNDC3A","FNDC3B","FNDC3A_FNDC3B",-0.383,0.503,0.054,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"FNIP1","FNIP2","FNIP1_FNIP2",0.848,0.239,0.007,0,"FR_negative","True","Functional Redundancy (moderate)","Synthetic Lethal (moderate)",NA
+"FXR1","FXR2","FXR1_FXR2",-0.122,1.236,0.581,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"G3BP1","G3BP2","G3BP1_G3BP2",-1.249,-1.527,-0.758,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"GABARAP","GABARAPL2","GABARAP_GABARAPL2",0.15,-0.055,0.396,0,"FR_negative","not_in_mmc6",NA,NA,"Data coverage gap: GABARAP is present in the CRISPR dependency data, but missing from the mutation data. This means mutation- and/or expression-based loss can't be computed for this gene, so any SL/FR result involving it would silently look like 'zero mutations / insufficient data' rather than a genuine negative. Check the exact gene symbol used in your OmicsSomaticMutationsMatrixDamaging.csv and OmicsExpressionTPMLogp1... column headers (naming/alias mismatches are the most common cause), or this gene may simply not be covered by that particular DepMap release."
+"GANAB","GANC","GANAB_GANC",-0.212,0.356,1.007,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"GFOD1","GFOD2","GFOD1_GFOD2",-0.462,-0.38,1.096,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"GGA2","GGA1","GGA1_GGA2",-0.944,-0.219,-0.203,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"GGA3","GGA1","GGA1_GGA3",-0.732,-0.134,0.32,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"GIGYF1","GIGYF2","GIGYF1_GIGYF2",-0.647,-0.824,0.435,0,"FR_negative","False","Functional Redundancy (moderate)","Synthetic Lethal (moderate)",NA
+"GIT1","GIT2","GIT1_GIT2",-2.842,-1.676,-2.819,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"GLB1","GLB1L","GLB1_GLB1L",0.728,0.71,0.427,0,"FR_negative","False","Functional Redundancy (moderate)","Not Synthetic Lethal",NA
+"GNA12","GNA13","GNA12_GNA13",-0.035,-0.213,-0.523,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"GNG10","GNG5","GNG10_GNG5",1.09,0.642,0.113,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"GNPDA1","GNPDA2","GNPDA1_GNPDA2",1.139,0.454,0.662,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"GOLPH3","GOLPH3L","GOLPH3_GOLPH3L",-0.762,0.669,0.895,0,"FR_negative","not_in_mmc6","Borderline FR","Synthetic Lethal (moderate)",NA
+"GON4L","YY1AP1","GON4L_YY1AP1",-0.206,-1.723,-1.153,0,"FR_negative","False","Not Functionally Redundant","Synthetic Lethal (moderate)",NA
+"GOT1","GOT2","GOT1_GOT2",-0.623,-1.407,-0.859,0,"FR_negative","not_in_mmc6","Functional Redundancy (moderate)","Synthetic Lethal (moderate)",NA
+"GPR107","GPR108","GPR107_GPR108",1.994,0.574,1.791,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"GRK2","GRK3","GRK2_GRK3",-0.427,-0.235,0.794,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Synthetic Lethal (moderate)",NA
+"GRK4","GRK6","GRK4_GRK6",1.967,0.969,1.303,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"GSK3A","GSK3B","GSK3A_GSK3B",-4.152,-7.346,-4.9,3,"FR_positive","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"GTF2H2","GTF2H2C","GTF2H2_GTF2H2C",0.357,-0.336,2.597,0,"FR_negative","not_in_mmc6",NA,NA,"Gene 'GTF2H2' not found in the loaded dependency data."
+"HDAC1","HDAC2","HDAC1_HDAC2",-1.968,-5.262,-6.312,2,"FR_positive","True","Functional Redundancy (moderate)","Synthetic Lethal",NA
+"HDAC4","HDAC5","HDAC4_HDAC5",-0.623,0.784,0.15,0,"FR_negative","True","Functional Redundancy (moderate)","Synthetic Lethal (moderate)",NA
+"HERC3","HERC4","HERC3_HERC4",-0.68,-0.766,-0.058,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"HEXA","HEXB","HEXA_HEXB",0.646,0.421,0.446,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"HINT1","HINT2","HINT1_HINT2",0.172,0.152,-0.282,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Synthetic Lethal (moderate)",NA
+"HIPK1","HIPK3","HIPK1_HIPK3",0.992,0.647,1.46,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"HIST1H4H","HIST4H4","HIST1H4H_HIST4H4",-0.062,0.184,0.797,0,"FR_negative","not_in_mmc6",NA,NA,"Gene 'HIST1H4H' not found in the loaded dependency data."
+"HIST2H2BE","HIST2H2BF","HIST2H2BE_HIST2H2BF",0.183,-0.535,0.855,0,"FR_negative","not_in_mmc6",NA,NA,"Gene 'HIST2H2BE' not found in the loaded dependency data."
+"HMG20A","HMG20B","HMG20A_HMG20B",0.88,0.528,0.343,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"HNRNPF","HNRNPH3","HNRNPF_HNRNPH3",-0.397,0.187,0.446,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Synthetic Lethal (moderate)",NA
+"HSP90AA1","HSP90AB1","HSP90AA1_HSP90AB1",-5.279,-6.144,-3.424,3,"FR_positive","not_in_mmc6","Functional Redundancy (moderate)","Synthetic Lethal (moderate)",NA
+"IFRD1","IFRD2","IFRD1_IFRD2",1.945,1.402,-0.198,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"ING4","ING5","ING4_ING5",-1.804,-1.063,-0.629,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"IP6K1","IP6K2","IP6K1_IP6K2",0.27,0.173,0.08,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"IQGAP1","IQGAP3","IQGAP1_IQGAP3",-0.871,0.579,-0.251,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"IRF2BP1","IRF2BPL","IRF2BP1_IRF2BPL",-0.389,0.383,-0.847,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"ITSN1","ITSN2","ITSN1_ITSN2",-0.476,-0.467,1.032,0,"FR_negative","False","Functional Redundancy (moderate)","Synthetic Lethal (moderate)",NA
+"JAK1","TYK2","JAK1_TYK2",-0.849,-0.298,0.231,0,"FR_negative","False","Borderline FR","Not Synthetic Lethal",NA
+"JOSD1","JOSD2","JOSD1_JOSD2",0.583,0.642,0.581,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"JRKL","TIGD2","JRKL_TIGD2",0.409,0.977,1.572,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"KAT6A","KAT6B","KAT6A_KAT6B",0.224,0.931,-0.349,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"KATNA1","KATNAL1","KATNA1_KATNAL1",-0.41,0.356,-0.623,0,"FR_negative","True","Functional Redundancy (moderate)","Synthetic Lethal (moderate)",NA
+"KBTBD6","KBTBD7","KBTBD6_KBTBD7",0.641,0.716,1.203,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"KCTD17","KCTD2","KCTD17_KCTD2",1.479,0.56,0.937,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"KCTD5","KCTD2","KCTD2_KCTD5",0.85,0.179,0.155,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"KDELR1","KDELR2","KDELR1_KDELR2",-5.36,-3.237,-3.976,3,"FR_positive","not_in_mmc6",NA,NA,"Data coverage gap: KDELR1 and KDELR2 are present in the CRISPR dependency data, but missing from the mutation data. This means mutation- and/or expression-based loss can't be computed for this gene, so any SL/FR result involving it would silently look like 'zero mutations / insufficient data' rather than a genuine negative. Check the exact gene symbol used in your OmicsSomaticMutationsMatrixDamaging.csv and OmicsExpressionTPMLogp1... column headers (naming/alias mismatches are the most common cause), or this gene may simply not be covered by that particular DepMap release."
+"KDM5A","KDM5B","KDM5A_KDM5B",0.559,1.081,1.651,0,"FR_negative","False","Not Functionally Redundant","Synthetic Lethal (moderate)",NA
+"KIF3A","KIF3B","KIF3A_KIF3B",-0.566,0.25,1.415,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"KLC1","KLC4","KLC1_KLC4",-1.159,-1.57,-0.777,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"KLHL17","KLHL20","KLHL17_KLHL20",-0.492,0.302,-0.22,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"KYAT1","KYAT3","KYAT1_KYAT3",-1.336,-0.23,-0.657,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"L3MBTL2","MBTD1","L3MBTL2_MBTD1",-0.168,0.402,0.175,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"LATS1","LATS2","LATS1_LATS2",1.547,1.626,1.656,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"LIN7B","LIN7C","LIN7B_LIN7C",0.17,-0.745,-0.447,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"LMAN2","LMAN2L","LMAN2_LMAN2L",0.543,0.484,-0.304,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"LMBR1","LMBR1L","LMBR1_LMBR1L",0.826,0.544,0.494,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"LMNB1","LMNB2","LMNB1_LMNB2",0.875,0.822,-0.03,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Synthetic Lethal (moderate)",NA
+"LPIN1","LPIN2","LPIN1_LPIN2",-0.078,-0.336,0.668,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"LRBA","NBEA","LRBA_NBEA",0.183,-0.371,0.267,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"LSM14A","LSM14B","LSM14A_LSM14B",0.632,0.321,0.385,0,"FR_negative","not_in_mmc6","Borderline FR","Synthetic Lethal (moderate)",NA
+"MAFG","MAFK","MAFG_MAFK",-1.47,-1.725,-2.603,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"MAP2K1","MAP2K2","MAP2K1_MAP2K2",1.074,0.822,-1.856,0,"FR_negative","not_in_mmc6",NA,NA,"Data coverage gap: MAP2K2 is present in the CRISPR dependency data, but missing from the mutation data. This means mutation- and/or expression-based loss can't be computed for this gene, so any SL/FR result involving it would silently look like 'zero mutations / insufficient data' rather than a genuine negative. Check the exact gene symbol used in your OmicsSomaticMutationsMatrixDamaging.csv and OmicsExpressionTPMLogp1... column headers (naming/alias mismatches are the most common cause), or this gene may simply not be covered by that particular DepMap release."
+"MAP3K11","MAP3K10","MAP3K10_MAP3K11",-0.329,0.438,0.262,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"MAP3K2","MAP3K3","MAP3K2_MAP3K3",0.521,0.171,0.57,0,"FR_negative","False","Not Functionally Redundant","Synthetic Lethal (moderate)",NA
+"MAP3K9","MAP3K10","MAP3K10_MAP3K9",-0.773,-0.145,-0.388,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"MAPK1","MAPK3","MAPK1_MAPK3",-3.749,-5.951,-5.222,3,"FR_positive","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"MAPK11","MAPK12","MAPK11_MAPK12",-0.051,0.479,1.205,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"MAPK8IP3","SPAG9","MAPK8IP3_SPAG9",-0.993,-0.355,0.194,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"MAPKAPK2","MAPKAPK3","MAPKAPK2_MAPKAPK3",-0.255,-0.328,0.892,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"MARK3","MARK4","MARK3_MARK4",-0.634,-0.96,-0.304,0,"FR_negative","not_in_mmc6","Functional Redundancy (moderate)","Not Synthetic Lethal",NA
+"MBD2","MBD3","MBD2_MBD3",0.02,-0.216,0.281,0,"FR_negative","True","Functional Redundancy (moderate)","Synthetic Lethal (moderate)",NA
+"ME2","ME3","ME2_ME3",0.624,0.596,1.046,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"MED13","MED13L","MED13_MED13L",-0.626,-0.952,0.032,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Synthetic Lethal (moderate)",NA
+"MEF2A","MEF2D","MEF2A_MEF2D",-0.076,1.56,1.007,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Synthetic Lethal (moderate)",NA
+"METTL2A","METTL2B","METTL2A_METTL2B",1.033,-0.554,0.413,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"MEX3C","MEX3B","MEX3B_MEX3C",0.243,0.062,-0.523,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"MEX3D","MEX3B","MEX3B_MEX3D",-0.163,-0.412,-0.102,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"MFAP3","MFAP3L","MFAP3_MFAP3L",0.17,0.182,0.228,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Synthetic Lethal (moderate)",NA
+"MFSD14A","MFSD14B","MFSD14A_MFSD14B",1.403,0.746,1.144,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"MKNK1","MKNK2","MKNK1_MKNK2",1.425,-0.952,-0.338,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"MOAP1","PNMA1","MOAP1_PNMA1",-1.325,-0.401,-0.73,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"MOB1B","MOB3A","MOB1B_MOB3A",-0.182,0.312,0.043,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"MPP2","MPP6","MPP2_MPP6",0.782,0.511,1.242,0,"FR_negative","not_in_mmc6",NA,NA,"Gene 'MPP6' not found in the loaded dependency data."
+"MPST","TST","MPST_TST",0.012,-0.129,0.194,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"MRFAP1","MRFAP1L1","MRFAP1_MRFAP1L1",0.801,0.329,0.64,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"MTHFD2","MTHFD2L","MTHFD2_MTHFD2L",0.861,0.274,0.278,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"MTMR3","MTMR4","MTMR3_MTMR4",-1.761,-1.791,-2.811,0,"FR_negative","False","Borderline FR","Not Synthetic Lethal",NA
+"MYL12A","MYL12B","MYL12A_MYL12B",-1.647,-0.581,-0.035,0,"FR_negative","not_in_mmc6",NA,NA,"Data coverage gap: MYL12B is present in the CRISPR dependency data, but missing from the mutation data. This means mutation- and/or expression-based loss can't be computed for this gene, so any SL/FR result involving it would silently look like 'zero mutations / insufficient data' rather than a genuine negative. Check the exact gene symbol used in your OmicsSomaticMutationsMatrixDamaging.csv and OmicsExpressionTPMLogp1... column headers (naming/alias mismatches are the most common cause), or this gene may simply not be covered by that particular DepMap release."
+"MYL6","MYL6B","MYL6_MYL6B",-0.852,-0.295,0.502,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"MZT2A","MZT2B","MZT2A_MZT2B",-0.182,0.231,0.892,0,"FR_negative","not_in_mmc6",NA,NA,"Data coverage gap: MZT2B is present in the CRISPR dependency data, but missing from the mutation data. This means mutation- and/or expression-based loss can't be computed for this gene, so any SL/FR result involving it would silently look like 'zero mutations / insufficient data' rather than a genuine negative. Check the exact gene symbol used in your OmicsSomaticMutationsMatrixDamaging.csv and OmicsExpressionTPMLogp1... column headers (naming/alias mismatches are the most common cause), or this gene may simply not be covered by that particular DepMap release."
+"NACC1","NACC2","NACC1_NACC2",0.327,0.528,0.396,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"NAP1L1","NAP1L4","NAP1L1_NAP1L4",-1.254,0.566,-2.455,0,"FR_negative","not_in_mmc6","Functional Redundancy (moderate)","Not Synthetic Lethal",NA
+"NDFIP1","NDFIP2","NDFIP1_NDFIP2",-0.168,-0.48,-1.01,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"NFIA","NFIC","NFIA_NFIC",0.268,-0.243,0.682,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"NIPSNAP1","NIPSNAP2","NIPSNAP1_NIPSNAP2",1.61,0.519,0.875,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"NKIRAS1","NKIRAS2","NKIRAS1_NKIRAS2",0.774,0.895,-0.027,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"NLN","THOP1","NLN_THOP1",0.153,0.571,0.318,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"NME1","NME2","NME1_NME2",-0.302,0.549,-0.032,0,"FR_negative","not_in_mmc6",NA,NA,"Data coverage gap: NME1 and NME2 are present in the CRISPR dependency data, but missing from the mutation data. This means mutation- and/or expression-based loss can't be computed for this gene, so any SL/FR result involving it would silently look like 'zero mutations / insufficient data' rather than a genuine negative. Check the exact gene symbol used in your OmicsSomaticMutationsMatrixDamaging.csv and OmicsExpressionTPMLogp1... column headers (naming/alias mismatches are the most common cause), or this gene may simply not be covered by that particular DepMap release."
+"NOTCH1","NOTCH2","NOTCH1_NOTCH2",1.637,0.947,0.67,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"NR1D1","NR1D2","NR1D1_NR1D2",0.199,0.16,-0.332,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Synthetic Lethal (moderate)",NA
+"NR2C1","NR2C2","NR2C1_NR2C2",0.101,-0.949,-1.046,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"NT5DC2","NT5DC3","NT5DC2_NT5DC3",0.292,0.506,-0.251,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"NUCB1","NUCB2","NUCB1_NUCB2",0.714,0.767,0.138,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"NUMB","NUMBL","NUMB_NUMBL",-0.092,-0.554,0.343,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"OAZ1","OAZ2","OAZ1_OAZ2",1.172,0.032,-0.8,0,"FR_negative","not_in_mmc6",NA,NA,"Data coverage gap: OAZ1 is present in the CRISPR dependency data, but missing from the mutation data. This means mutation- and/or expression-based loss can't be computed for this gene, so any SL/FR result involving it would silently look like 'zero mutations / insufficient data' rather than a genuine negative. Check the exact gene symbol used in your OmicsSomaticMutationsMatrixDamaging.csv and OmicsExpressionTPMLogp1... column headers (naming/alias mismatches are the most common cause), or this gene may simply not be covered by that particular DepMap release."
+"ORMDL1","ORMDL3","ORMDL1_ORMDL3",-0.462,-0.061,0.855,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"ORMDL2","ORMDL3","ORMDL2_ORMDL3",-0.01,0.059,-0.15,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Synthetic Lethal (moderate)",NA
+"OSBPL3","OSBPL7","OSBPL3_OSBPL7",0.671,1.83,1.021,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"PABPC1L","PABPC4","PABPC1L_PABPC4",0.303,-0.001,-0.548,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"PACS1","PACS2","PACS1_PACS2",0.578,0.13,1.012,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"PACSIN2","PACSIN3","PACSIN2_PACSIN3",0.747,0.138,0.141,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"PAFAH1B2","PAFAH1B3","PAFAH1B2_PAFAH1B3",-0.351,0.285,0.844,0,"FR_negative","not_in_mmc6",NA,NA,"Data coverage gap: PAFAH1B3 is present in the CRISPR dependency data, but missing from the mutation data. This means mutation- and/or expression-based loss can't be computed for this gene, so any SL/FR result involving it would silently look like 'zero mutations / insufficient data' rather than a genuine negative. Check the exact gene symbol used in your OmicsSomaticMutationsMatrixDamaging.csv and OmicsExpressionTPMLogp1... column headers (naming/alias mismatches are the most common cause), or this gene may simply not be covered by that particular DepMap release."
+"PANK1","PANK3","PANK1_PANK3",1.231,0.258,1.69,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"PANK2","PANK3","PANK2_PANK3",0.387,0.119,0.942,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"PAPOLA","PAPOLG","PAPOLA_PAPOLG",-1.987,-4.946,-4.516,2,"FR_positive","False","Not Functionally Redundant","Synthetic Lethal (moderate)",NA
+"PBX3","PBX2","PBX2_PBX3",-0.116,-0.104,0.035,0,"FR_negative","not_in_mmc6",NA,NA,"Data coverage gap: PBX2 is present in the CRISPR dependency data, but missing from the mutation data. This means mutation- and/or expression-based loss can't be computed for this gene, so any SL/FR result involving it would silently look like 'zero mutations / insufficient data' rather than a genuine negative. Check the exact gene symbol used in your OmicsSomaticMutationsMatrixDamaging.csv and OmicsExpressionTPMLogp1... column headers (naming/alias mismatches are the most common cause), or this gene may simply not be covered by that particular DepMap release."
+"PBX4","PBX2","PBX2_PBX4",0.36,0.697,0.785,0,"FR_negative","not_in_mmc6",NA,NA,"Data coverage gap: PBX2 is present in the CRISPR dependency data, but missing from the mutation data. This means mutation- and/or expression-based loss can't be computed for this gene, so any SL/FR result involving it would silently look like 'zero mutations / insufficient data' rather than a genuine negative. Check the exact gene symbol used in your OmicsSomaticMutationsMatrixDamaging.csv and OmicsExpressionTPMLogp1... column headers (naming/alias mismatches are the most common cause), or this gene may simply not be covered by that particular DepMap release."
+"PCMTD1","PCMTD2","PCMTD1_PCMTD2",0.513,0.465,0.651,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"PCNX1","PCNX3","PCNX1_PCNX3",-0.119,-0.181,-0.595,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"PDIK1L","STK35","PDIK1L_STK35",0.082,1.059,0.668,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"PHLPP1","PHLPP2","PHLPP1_PHLPP2",-0.203,0.661,-0.083,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"PHTF1","PHTF2","PHTF1_PHTF2",1.613,0.618,0.6,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"PIP5K1A","PIP5K1C","PIP5K1A_PIP5K1C",-1.932,-0.998,-2.592,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"PITPNA","PITPNB","PITPNA_PITPNB",-5.004,-3.692,-6.46,3,"FR_positive","False","Functional Redundancy (moderate)","Synthetic Lethal (moderate)",NA
+"PITPNM1","PITPNM2","PITPNM1_PITPNM2",0.254,-0.627,0.004,0,"FR_negative","False","Borderline FR","Synthetic Lethal (moderate)",NA
+"PKN1","PKN3","PKN1_PKN3",0.129,1.274,1.455,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"PKN2","PKN3","PKN2_PKN3",-0.182,0.152,-0.016,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"PLCD1","PLCD4","PLCD1_PLCD4",0.545,1.315,1.298,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"PLEKHF1","PLEKHF2","PLEKHF1_PLEKHF2",1.188,0.751,0.693,0,"FR_negative","False","Functional Redundancy (moderate)","Not Synthetic Lethal",NA
+"PPARA","PPARD","PPARA_PPARD",0.91,1.408,1.071,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"PPIP5K1","PPIP5K2","PPIP5K1_PPIP5K2",0.63,0.844,0.315,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"PPM1A","PPM1B","PPM1A_PPM1B",1.215,-0.747,0.012,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"PPP1CC","PPP2CB","PPP1CC_PPP2CB",1.599,1.838,1.116,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"PPP3CA","PPP3CB","PPP3CA_PPP3CB",-0.07,0.852,1.029,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"PPP3CC","PPP3CB","PPP3CB_PPP3CC",0.951,1.35,1.645,0,"FR_negative","False","Not Functionally Redundant","Synthetic Lethal (moderate)",NA
+"PRDX1","PRDX3","PRDX1_PRDX3",-0.367,0.473,0.34,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"PRKACA","PRKACB","PRKACA_PRKACB",-0.329,0.628,0.281,0,"FR_negative","True","Not Functionally Redundant","Not Synthetic Lethal",NA
+"PRKAG1","PRKAG2","PRKAG1_PRKAG2",-0.073,0.487,1.099,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"PRPSAP1","PRPSAP2","PRPSAP1_PRPSAP2",0.932,1.307,0.567,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"PSEN1","PSEN2","PSEN1_PSEN2",-0.217,-0.638,0.245,0,"FR_negative","False","Functional Redundancy (moderate)","Synthetic Lethal (moderate)",NA
+"PTP4A1","PTP4A2","PTP4A1_PTP4A2",-5.374,-6.095,-3.22,3,"FR_positive","not_in_mmc6","Not Functionally Redundant","Synthetic Lethal (moderate)",NA
+"PUM1","PUM2","PUM1_PUM2",-0.288,-1.031,-0.615,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"PURA","PURB","PURA_PURB",0.159,0.934,0.645,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"PYCR1","PYCR2","PYCR1_PYCR2",-0.176,-3.011,0.581,1,"ambiguous","not_in_mmc6","Functional Redundancy (moderate)","Synthetic Lethal (moderate)",NA
+"R3HDM1","R3HDM2","R3HDM1_R3HDM2",1.242,0.819,0.362,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Synthetic Lethal (moderate)",NA
+"RAB40B","RAB40C","RAB40B_RAB40C",0.273,0.359,0.259,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"RABL2A","RABL2B","RABL2A_RABL2B",1.539,1.784,1.189,0,"FR_negative","not_in_mmc6",NA,NA,"Data coverage gap: RABL2A and RABL2B are present in the CRISPR dependency data, but missing from the mutation data. This means mutation- and/or expression-based loss can't be computed for this gene, so any SL/FR result involving it would silently look like 'zero mutations / insufficient data' rather than a genuine negative. Check the exact gene symbol used in your OmicsSomaticMutationsMatrixDamaging.csv and OmicsExpressionTPMLogp1... column headers (naming/alias mismatches are the most common cause), or this gene may simply not be covered by that particular DepMap release."
+"RAD23A","RAD23B","RAD23A_RAD23B",0.039,0.056,-0.64,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Synthetic Lethal (moderate)",NA
+"RALGAPA1","RALGAPA2","RALGAPA1_RALGAPA2",0.186,-1.093,-0.178,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"RALGPS1","RALGPS2","RALGPS1_RALGPS2",-1.532,-0.456,-0.173,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"RANBP10","RANBP9","RANBP10_RANBP9",0.178,-0.265,-0.621,0,"FR_negative","not_in_mmc6","Functional Redundancy (moderate)","Synthetic Lethal",NA
+"RAPGEF2","RAPGEF6","RAPGEF2_RAPGEF6",0.6,0.04,0.354,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"RARA","RARG","RARA_RARG",1.572,-0.023,0.783,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"RBL1","RBL2","RBL1_RBL2",-0.269,-0.715,-0.805,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"RBM4","RBM4B","RBM4_RBM4B",1.027,0.721,0.25,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"RBMS1","RBMS2","RBMS1_RBMS2",-0.258,0.22,0.556,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"RC3H1","RC3H2","RC3H1_RC3H2",-0.492,-1.055,-1.875,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Synthetic Lethal (moderate)",NA
+"RCBTB1","RCBTB2","RCBTB1_RCBTB2",1.218,0.947,0.491,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"RFX1","RFX2","RFX1_RFX2",-0.498,0.601,0.43,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"RHOC","RHOG","RHOC_RHOG",-0.694,0.383,-0.441,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"RIC8A","RIC8B","RIC8A_RIC8B",1.302,1.222,0.589,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"RING1","RNF2","RING1_RNF2",1.73,-0.094,-1.354,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"RNF122","RNF24","RNF122_RNF24",0.643,0.544,-0.144,0,"FR_negative","False",NA,NA,"Data coverage gap: RNF122 and RNF24 are present in the CRISPR dependency data, but missing from the mutation data. This means mutation- and/or expression-based loss can't be computed for this gene, so any SL/FR result involving it would silently look like 'zero mutations / insufficient data' rather than a genuine negative. Check the exact gene symbol used in your OmicsSomaticMutationsMatrixDamaging.csv and OmicsExpressionTPMLogp1... column headers (naming/alias mismatches are the most common cause), or this gene may simply not be covered by that particular DepMap release."
+"RNF185","RNF5","RNF185_RNF5",0.684,0.579,0.937,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"RNF19A","RNF19B","RNF19A_RNF19B",-2.798,-1.333,-2.186,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"RNF38","RNF44","RNF38_RNF44",0.82,0.874,0.729,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"ROCK1","ROCK2","ROCK1_ROCK2",-1.412,-0.848,-1.433,0,"FR_negative","True","Functional Redundancy (moderate)","Synthetic Lethal (moderate)",NA
+"RPS6KB1","RPS6KB2","RPS6KB1_RPS6KB2",-0.881,-0.192,-0.867,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"RSBN1","RSBN1L","RSBN1_RSBN1L",0.668,0.759,0.259,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"SAFB","SAFB2","SAFB_SAFB2",-3.958,-3.461,-1.366,2,"FR_positive","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"SAP30","SAP30L","SAP30_SAP30L",0.126,0.795,0.892,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"SAR1A","SAR1B","SAR1A_SAR1B",-4.71,-5.913,-6.774,3,"FR_positive","not_in_mmc6","Not Functionally Redundant","Synthetic Lethal (moderate)",NA
+"SBF1","SBF2","SBF1_SBF2",0.799,1.293,1.278,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"SCAMP2","SCAMP3","SCAMP2_SCAMP3",-1.361,-1.216,-0.898,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"SCRN2","SCRN3","SCRN2_SCRN3",-0.361,-0.908,-0.797,0,"FR_negative","not_in_mmc6","Borderline FR","Not Synthetic Lethal",NA
+"SEC24A","SEC24B","SEC24A_SEC24B",-1.167,-1.464,-2.802,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"SEPT11","SEPT8","SEPT11_SEPT8",0.706,-0.434,0.292,0,"FR_negative","not_in_mmc6",NA,NA,"Gene 'SEPT11' not found in the loaded dependency data."
+"SERINC1","SERINC3","SERINC1_SERINC3",0.39,1.508,0.25,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"SESN1","SESN2","SESN1_SESN2",-0.133,-0.358,-1.17,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"SFXN1","SFXN2","SFXN1_SFXN2",-1.2,0.795,0.953,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"SGTA","SGTB","SGTA_SGTB",0.417,-0.963,0.374,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"SHMT1","SHMT2","SHMT1_SHMT2",-1.382,-1.646,-0.777,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"SIPA1L1","SIPA1L3","SIPA1L1_SIPA1L3",-0.168,0.018,0.558,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"SLC12A4","SLC12A6","SLC12A4_SLC12A6",1.133,0.01,1.085,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"SLC25A23","SLC25A25","SLC25A23_SLC25A25",0.662,-0.32,0.141,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"SLC25A24","SLC25A25","SLC25A24_SLC25A25",1.313,0.672,0.48,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"SLC25A33","SLC25A36","SLC25A33_SLC25A36",0.605,0.702,-0.59,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"SLC36A1","SLC36A4","SLC36A1_SLC36A4",1.855,1.468,0.939,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"SLC41A2","SLC41A1","SLC41A1_SLC41A2",0.442,0.844,0.29,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"SLC41A3","SLC41A1","SLC41A1_SLC41A3",0.995,0.871,0.452,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"SLC4A2","SLC4A3","SLC4A2_SLC4A3",-0.917,0.127,0.046,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"SMAD1","SMAD2","SMAD1_SMAD2",0.85,0.511,1.189,0,"FR_negative","False",NA,NA,"Data coverage gap: SMAD1 is present in the CRISPR dependency data, but missing from the mutation data. This means mutation- and/or expression-based loss can't be computed for this gene, so any SL/FR result involving it would silently look like 'zero mutations / insufficient data' rather than a genuine negative. Check the exact gene symbol used in your OmicsSomaticMutationsMatrixDamaging.csv and OmicsExpressionTPMLogp1... column headers (naming/alias mismatches are the most common cause), or this gene may simply not be covered by that particular DepMap release."
+"SMAP1","SMAP2","SMAP1_SMAP2",-0.966,-1.148,-0.822,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"SMARCA2","SMARCA4","SMARCA2_SMARCA4",0.126,-0.687,0.581,0,"FR_negative","True","Functional Redundancy (moderate)","Synthetic Lethal",NA
+"SMARCC1","SMARCC2","SMARCC1_SMARCC2",-0.881,-0.497,-0.032,0,"FR_negative","False","Borderline FR","Synthetic Lethal",NA
+"SMARCD1","SMARCD2","SMARCD1_SMARCD2",-0.302,-0.246,-0.17,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"SMURF1","SMURF2","SMURF1_SMURF2",0.033,0.419,0.64,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"SNTA1","SNTB2","SNTA1_SNTB2",-0.037,0.127,-0.287,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"SNX1","SNX2","SNX1_SNX2",0.85,0.838,0.533,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"SNX5","SNX6","SNX5_SNX6",1.155,0.01,0.376,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"SOCS4","SOCS5","SOCS4_SOCS5",0.254,0.811,0.094,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"SPOP","SPOPL","SPOP_SPOPL",0.074,1.138,1.368,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"SPRED1","SPRED2","SPRED1_SPRED2",0.333,1.222,0.449,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"SRSF4","SRSF5","SRSF4_SRSF5",0.281,0.04,0.853,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"SS18","SS18L1","SS18_SS18L1",0.954,0.795,-0.027,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"STAM","STAM2","STAM_STAM2",-0.086,-0.445,0.374,0,"FR_negative","False","Functional Redundancy","Synthetic Lethal (moderate)",NA
+"STAT1","STAT3","STAT1_STAT3",-0.503,-0.102,-0.032,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"STK17A","STK17B","STK17A_STK17B",0.412,0.748,0.634,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"STK38","STK38L","STK38_STK38L",1.471,0.944,1.536,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"STX10","STX6","STX10_STX6",-1.916,-1.115,-1.377,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"STX12","STX7","STX12_STX7",-0.201,-0.431,-0.013,0,"FR_negative","not_in_mmc6","Functional Redundancy (moderate)","Synthetic Lethal (moderate)",NA
+"SUCLA2","SUCLG2","SUCLA2_SUCLG2",-0.016,-0.26,0.122,0,"FR_negative","False","Not Functionally Redundant","Synthetic Lethal (moderate)",NA
+"SYNGR2","SYNGR3","SYNGR2_SYNGR3",0.671,-0.042,0.732,0,"FR_negative","not_in_mmc6",NA,NA,"Data coverage gap: SYNGR2 is present in the CRISPR dependency data, but missing from the mutation data. This means mutation- and/or expression-based loss can't be computed for this gene, so any SL/FR result involving it would silently look like 'zero mutations / insufficient data' rather than a genuine negative. Check the exact gene symbol used in your OmicsSomaticMutationsMatrixDamaging.csv and OmicsExpressionTPMLogp1... column headers (naming/alias mismatches are the most common cause), or this gene may simply not be covered by that particular DepMap release."
+"TBC1D15","TBC1D17","TBC1D15_TBC1D17",1.76,1.582,0.724,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"TBC1D22A","TBC1D22B","TBC1D22A_TBC1D22B",-0.715,-0.565,-0.665,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"TCF12","TCF3","TCF12_TCF3",-0.99,0.184,-0.64,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"TESK1","TESK2","TESK1_TESK2",-0.19,1.078,0.945,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"TFCP2","UBP1","TFCP2_UBP1",-1.072,-0.529,-0.293,0,"FR_negative","True","Functional Redundancy (moderate)","Synthetic Lethal",NA
+"TIA1","TIAL1","TIA1_TIAL1",-3.8,-8.299,-8.194,3,"FR_positive","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"TMED1","TMED5","TMED1_TMED5",0.156,0.351,0.08,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Synthetic Lethal (moderate)",NA
+"TMED3","TMED7","TMED3_TMED7",1.427,0.566,1.25,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Synthetic Lethal (moderate)",NA
+"TMED4","TMED9","TMED4_TMED9",-0.879,-1.728,-1.391,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"TMEM14A","TMEM14C","TMEM14A_TMEM14C",-0.351,0.789,0.178,0,"FR_negative","not_in_mmc6",NA,NA,"Data coverage gap: TMEM14C is present in the CRISPR dependency data, but missing from the mutation data. This means mutation- and/or expression-based loss can't be computed for this gene, so any SL/FR result involving it would silently look like 'zero mutations / insufficient data' rather than a genuine negative. Check the exact gene symbol used in your OmicsSomaticMutationsMatrixDamaging.csv and OmicsExpressionTPMLogp1... column headers (naming/alias mismatches are the most common cause), or this gene may simply not be covered by that particular DepMap release."
+"TMEM14B","TMEM14C","TMEM14B_TMEM14C",1.85,1.555,1.029,0,"FR_negative","not_in_mmc6",NA,NA,"Data coverage gap: TMEM14C is present in the CRISPR dependency data, but missing from the mutation data. This means mutation- and/or expression-based loss can't be computed for this gene, so any SL/FR result involving it would silently look like 'zero mutations / insufficient data' rather than a genuine negative. Check the exact gene symbol used in your OmicsSomaticMutationsMatrixDamaging.csv and OmicsExpressionTPMLogp1... column headers (naming/alias mismatches are the most common cause), or this gene may simply not be covered by that particular DepMap release."
+"TMEM170A","TMEM170B","TMEM170A_TMEM170B",1.365,1.331,0.236,0,"FR_negative","False",NA,NA,"Data coverage gap: TMEM170B is present in the CRISPR dependency data, but missing from the mutation data. This means mutation- and/or expression-based loss can't be computed for this gene, so any SL/FR result involving it would silently look like 'zero mutations / insufficient data' rather than a genuine negative. Check the exact gene symbol used in your OmicsSomaticMutationsMatrixDamaging.csv and OmicsExpressionTPMLogp1... column headers (naming/alias mismatches are the most common cause), or this gene may simply not be covered by that particular DepMap release."
+"TMEM39A","TMEM39B","TMEM39A_TMEM39B",0.382,-0.091,0.634,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"TMEM50A","TMEM50B","TMEM50A_TMEM50B",-0.005,0.054,0.418,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"TMEM63A","TMEM63B","TMEM63A_TMEM63B",-0.005,0.68,-0.579,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"TMEM87A","TMEM87B","TMEM87A_TMEM87B",1.496,0.184,0.55,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"TNKS","TNKS2","TNKS_TNKS2",-0.721,-0.104,-1.158,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"TNPO1","TNPO2","TNPO1_TNPO2",1.044,-0.649,-1.62,0,"FR_negative","not_in_mmc6","Borderline FR","Not Synthetic Lethal",NA
+"TOB1","TOB2","TOB1_TOB2",0.265,0.634,0.197,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"TOM1","TOM1L2","TOM1_TOM1L2",0.17,0.705,0.755,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"TOR1A","TOR1B","TOR1A_TOR1B",-2.194,-2.145,-2.052,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"TPM3","TPM4","TPM3_TPM4",-0.312,0.495,0.119,0,"FR_negative","not_in_mmc6","Borderline FR","Not Synthetic Lethal",NA
+"TRAK1","TRAK2","TRAK1_TRAK2",1.321,1.339,0.595,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"TRIM24","TRIM33","TRIM24_TRIM33",0.344,-0.576,-0.707,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"TRIM34","TRIM5","TRIM34_TRIM5",-0.263,0.201,0.012,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"TSPAN14","TSPAN17","TSPAN14_TSPAN17",0.766,-0.396,-0.013,0,"FR_negative","not_in_mmc6","Functional Redundancy (moderate)","Not Synthetic Lethal",NA
+"TSPYL1","TSPYL4","TSPYL1_TSPYL4",0.003,1.07,0.452,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"TTC30A","TTC30B","TTC30A_TTC30B",2.419,2.241,1.911,0,"FR_negative","not_in_mmc6",NA,NA,"Gene 'TTC30A' not found in the loaded dependency data."
+"UBALD1","UBALD2","UBALD1_UBALD2",0.703,0.272,0.029,0,"FR_negative","not_in_mmc6","Functional Redundancy (moderate)","Synthetic Lethal",NA
+"UBAP2","UBAP2L","UBAP2_UBAP2L",0.14,-0.51,0.06,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"UBE2V1","UBE2V2","UBE2V1_UBE2V2",-2.521,-2.641,-1.774,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"UBR1","UBR2","UBR1_UBR2",-0.076,0.539,0.315,0,"FR_negative","False","Borderline FR","Not Synthetic Lethal",NA
+"UBTD1","UBTD2","UBTD1_UBTD2",0.649,0.634,0.701,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"UCK1","UCK2","UCK1_UCK2",-0.683,-0.598,-0.794,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"UGGT1","UGGT2","UGGT1_UGGT2",-0.903,-1.208,-0.917,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"ULK1","ULK2","ULK1_ULK2",0.058,0.054,0.116,0,"FR_negative","False","Functional Redundancy (moderate)","Not Synthetic Lethal",NA
+"UNC119","UNC119B","UNC119_UNC119B",1.449,1.195,0.483,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"UNK","UNKL","UNK_UNKL",-0.122,0.222,0.612,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"USP12","USP46","USP12_USP46",-0.664,0.195,1.443,0,"FR_negative","False","Functional Redundancy (moderate)","Not Synthetic Lethal",NA
+"USP15","USP4","USP15_USP4",0.423,-0.238,-0.189,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"USP20","USP33","USP20_USP33",-0.37,0.683,-0.917,0,"FR_negative","not_in_mmc6","Borderline FR","Not Synthetic Lethal",NA
+"USP25","USP28","USP25_USP28",1.487,1.737,1.379,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"VAMP1","VAMP2","VAMP1_VAMP2",-0.92,-0.647,-0.444,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"VDAC2","VDAC3","VDAC2_VDAC3",0.268,0.405,-0.321,0,"FR_negative","False","Functional Redundancy (moderate)","Not Synthetic Lethal",NA
+"WASF1","WASF2","WASF1_WASF2",-0.1,0.413,-0.332,0,"FR_negative","not_in_mmc6","Borderline FR","Synthetic Lethal (moderate)",NA
+"WDFY1","WDFY2","WDFY1_WDFY2",-0.525,0.01,-0.363,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"YIF1A","YIF1B","YIF1A_YIF1B",-1.589,0.688,-2.139,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Synthetic Lethal (moderate)",NA
+"YIPF1","YIPF2","YIPF1_YIPF2",0.104,1.519,2.085,0,"FR_negative","not_in_mmc6","Borderline FR","Not Synthetic Lethal",NA
+"ZDHHC14","ZDHHC18","ZDHHC14_ZDHHC18",-0.435,0.318,-0.377,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"ZDHHC3","ZDHHC7","ZDHHC3_ZDHHC7",1.221,1.151,0.362,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"ZDHHC5","ZDHHC8","ZDHHC5_ZDHHC8",1.945,1.353,1.161,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"ZFAND2A","ZFAND2B","ZFAND2A_ZFAND2B",1.005,1.389,0.374,0,"FR_negative","not_in_mmc6",NA,NA,"Data coverage gap: ZFAND2B is present in the CRISPR dependency data, but missing from the mutation data. This means mutation- and/or expression-based loss can't be computed for this gene, so any SL/FR result involving it would silently look like 'zero mutations / insufficient data' rather than a genuine negative. Check the exact gene symbol used in your OmicsSomaticMutationsMatrixDamaging.csv and OmicsExpressionTPMLogp1... column headers (naming/alias mismatches are the most common cause), or this gene may simply not be covered by that particular DepMap release."
+"ZKSCAN1","ZKSCAN8","ZKSCAN1_ZKSCAN8",-0.046,-0.132,-0.111,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"ZKSCAN2","ZSCAN29","ZKSCAN2_ZSCAN29",0.763,0.024,0.511,0,"FR_negative","False",NA,NA,"Data coverage gap: ZSCAN29 is present in the CRISPR dependency data, but missing from the mutation data. This means mutation- and/or expression-based loss can't be computed for this gene, so any SL/FR result involving it would silently look like 'zero mutations / insufficient data' rather than a genuine negative. Check the exact gene symbol used in your OmicsSomaticMutationsMatrixDamaging.csv and OmicsExpressionTPMLogp1... column headers (naming/alias mismatches are the most common cause), or this gene may simply not be covered by that particular DepMap release."
+"ZKSCAN3","ZKSCAN4","ZKSCAN3_ZKSCAN4",-0.47,-0.499,-0.341,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"ZMIZ1","ZMIZ2","ZMIZ1_ZMIZ2",-0.71,-0.611,1.222,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Synthetic Lethal (moderate)",NA
+"ZNF133","ZNF169","ZNF133_ZNF169",-0.824,-0.423,-0.245,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"ZNF136","ZNF627","ZNF136_ZNF627",1.136,0.781,0.718,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"ZNF143","ZNF76","ZNF143_ZNF76",1.275,-2.545,-1.01,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"ZNF181","ZNF302","ZNF181_ZNF302",1.166,0.321,0.348,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"ZNF26","ZNF268","ZNF26_ZNF268",2.122,1.808,1.511,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"ZNF286A","ZNF286B","ZNF286A_ZNF286B",1.264,0.563,-0.066,0,"FR_negative","not_in_mmc6",NA,NA,"Gene 'ZNF286B' not found in the loaded dependency data."
+"ZNF324","ZNF324B","ZNF324_ZNF324B",-0.201,1.688,0.474,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"ZNF354A","ZNF354B","ZNF354A_ZNF354B",-0.067,0.22,0.402,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"ZNF419","ZNF773","ZNF419_ZNF773",-0.443,-0.325,-0.066,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"ZNF524","ZNF581","ZNF524_ZNF581",0.134,1.004,0.452,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"ZNF552","ZNF587B","ZNF552_ZNF587B",-0.321,-0.578,0.416,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"ZNF555","ZNF77","ZNF555_ZNF77",0.284,1.394,0.981,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"ZNF557","ZNF558","ZNF557_ZNF558",0.085,0.416,0.57,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"ZNF561","ZNF562","ZNF561_ZNF562",0.036,-0.203,-0.17,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"ZNF580","ZNF581","ZNF580_ZNF581",0.447,0.443,1.071,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"ZNF600","ZNF611","ZNF600_ZNF611",1.003,0.56,0.519,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"ZNF619","ZNF620","ZNF619_ZNF620",0.284,-0.102,0.172,0,"FR_negative","False","Not Functionally Redundant","Not Synthetic Lethal",NA
+"ZNF747","ZNF764","ZNF747_ZNF764",1.46,0.716,0.931,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"ZNF785","ZNF764","ZNF764_ZNF785",0.521,0.533,0.623,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"ZSCAN21","ZSCAN30","ZSCAN21_ZSCAN30",0.344,0.252,0.34,0,"FR_negative","not_in_mmc6","Not Functionally Redundant","Not Synthetic Lethal",NA
+"ZSWIM4","ZSWIM6","ZSWIM4_ZSWIM6",0.025,-0.813,-0.105,0,"FR_negative","False","Functional Redundancy (moderate)","Synthetic Lethal (moderate)",NA
