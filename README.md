@@ -18,10 +18,7 @@ Benchmarked against the Dede/Hart and Parrish (2021) synthetic lethality dataset
 mart_export) not included in this repo due to size — see Setup below.
 
 ### Module 2 — CancerComb Analyzer (`Module_2/`)
-A Shiny-based drug synergy scoring tool implementing Bliss and Loewe synergy
-models on dose-response data, with `(0,0)` control normalization and transparent
-exact-vs-approximate Loewe reporting. Benchmarked for conformance against
-SynergyFinder's bundled reference dataset.
+A drug synergy scoring pipeline implementing Bliss and Loewe synergy models on dose-response data, with `(0,0)` control normalization and transparent exact-vs-approximate Loewe reporting. Benchmarked for conformance against SynergyFinder's bundled reference dataset. Callable via `run_pipeline(csv_path, unit, response_type)`.
 
 ### Module 3 — TCGA Gene-Pair Multi-Term Analysis (`TCGA_module_3/`)
 Queries the live cBioPortal REST API to test pairwise mutual exclusivity and
