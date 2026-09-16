@@ -33,7 +33,7 @@ Each module is a set of R scripts; no shared package structure yet (see Status).
 - **Module_1**: requires DepMap release CSVs (CRISPRGeneEffect, Omics*, Model,
   PortalCompounds) placed in `Module_1/`, plus `mart_export.txt` from Ensembl —
   excluded from this repo via `.gitignore` due to size (~1.5 GB total).
-- * Module_2: run `final_without_shiny.R` — call `run_pipeline(csv_path, unit, response_type)` in R/RStudio.
+- **Module_2**: run `final_module_2.R` — call `run_pipeline(csv_path, unit, response_type)` in R/RStudio.
 - **Module_3**: run `Finalized_module3_CORRECTED.R` — queries cBioPortal live,
   no local data setup required beyond the included `cancerGeneList.tsv`
   (OncoKB static snapshot).
